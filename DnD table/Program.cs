@@ -1,4 +1,4 @@
-﻿//бредни психов
+﻿//бредни
 namespace table
 {
     class Program

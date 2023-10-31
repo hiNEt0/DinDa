@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD table", "DnD table\DnD table.csproj", "{5A5BFC7E-DBB9-4790-B936-4CBD690E9823}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDTableWeb", "DnDTableWeb\DnDTableWeb.csproj", "{F8BDD5D7-25DB-4492-A7B3-173CC4317662}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A5BFC7E-DBB9-4790-B936-4CBD690E9823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A5BFC7E-DBB9-4790-B936-4CBD690E9823}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A5BFC7E-DBB9-4790-B936-4CBD690E9823}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A5BFC7E-DBB9-4790-B936-4CBD690E9823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BDD5D7-25DB-4492-A7B3-173CC4317662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BDD5D7-25DB-4492-A7B3-173CC4317662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BDD5D7-25DB-4492-A7B3-173CC4317662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BDD5D7-25DB-4492-A7B3-173CC4317662}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
